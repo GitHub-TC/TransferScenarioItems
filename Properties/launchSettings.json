@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TransferScenarioItems": {
+      "commandName": "Project",
+      "commandLineArgs": "--scenario-icons \"C:\\steamcmd\\empyrion.server\\Content\\Scenarios\\Reforged Eden\\SharedData\\Content\\Bundles\\ItemIcons\" --target-folder T:\\EdenIcons --name-id-mappingfile \"C:\\steamcmd\\empyrion.server\\Saves\\Games\\DefaultRE\\Mods\\EmpyrionScripting\\NameIdMapping.json\" --eah-icons \"C:\\steamcmd\\empyrion.server\\DedicatedServer\\EmpyrionAdminHelper\\Items\""
+    }
+  }
+}
