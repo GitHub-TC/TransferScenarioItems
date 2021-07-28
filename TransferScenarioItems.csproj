@@ -3,6 +3,12 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>ASTIC/TC</Authors>
+    <Company>ASTIC/TC</Company>
+    <Copyright>ASTIC/TC Copyright ©2021</Copyright>
+    <PackageReleaseNotes>GNU General Public License v3.0</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/GitHub-TC/TransferScenarioItems</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/GitHub-TC/TransferScenarioItems</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
